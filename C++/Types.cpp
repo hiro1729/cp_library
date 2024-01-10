@@ -1,0 +1,34 @@
+using ll = long long;
+using i7 = __int128_t;
+using ld = long double;
+
+using vi = vector<int>;
+using vvi = vector<vi>;
+using vvvi = vector<vvi>;
+using vvvvi = vector<vvvi>;
+using vvvvvi = vector<vvvvi>;
+using vvvvvvi = vector<vvvvvi>;
+using vl = vector<ll>;
+using vvl = vector<vl>;
+using vvvl = vector<vvl>;
+using vvvvl = vector<vvvl>;
+using vvvvvl = vector<vvvvl>;
+using vvvvvvl = vector<vvvvvl>;
+using vm = vector<mint>;
+using vvm = vector<vm>;
+using vvvm = vector<vvm>;
+using vvvvm = vector<vvvm>;
+using vvvvvm = vector<vvvvm>;
+using vvvvvvm = vector<vvvvvm>;
+using vs = vector<string>;
+using vvs = vector<vector<string>>;
+using vc = vector<char>;
+using vvc = vector<vc>;
+using vd = vector<ld>;
+using vvd = vector<vd>;
+using vb = vector<bool>;
+using vvb = vector<vb>;
+using vvvb = vector<vvb>;
+template <typename T> using pq = priority_queue<T>;
+template <typename T> using pqg = priority_queue<T, vector<T>, greater<T>>;
+
